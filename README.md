@@ -14,3 +14,5 @@ The main objective of this work is to display tree pattern and a 3D cube and und
 5. Learning 3D Vector graphics and the corresponding C code to implement this work.
 6. Designing, implementing, testing and debugging CPU, LCD and other components.
 
+Access the main code through: respective_folder_name/DrawALine/src/LCD_Test.c
+
